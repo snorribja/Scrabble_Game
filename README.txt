@@ -4,7 +4,8 @@
 
 This is a digital version of the classic board game Scrabble, where players create words on a game board to score points. The game can be played with two to four players.
 
-##Installation
+## Installation
+
 To play the game, you must have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 In addition, you will need to install the termcolor, tabulate, copy, itertools and pyfiglet packages. You can install these packages by running the following commands in your terminal or command prompt:
@@ -21,6 +22,7 @@ Once you have installed Python 3 and the necessary packages, you can download or
 
 
 ## How to Play
+
 1. Open a terminal or command prompt and navigate to the directory where you downloaded or cloned this repository.
 2.Run the command python3 main.py to start the game.
 3. Enter the number of players and the names of each player when prompted.
@@ -38,7 +40,9 @@ Once you have installed Python 3 and the necessary packages, you can download or
 7. The game ends when all tiles have been played and one player has used all of their tiles, or when all players have passed their turn twice in a row. The player with the highest score at the end of the game wins.
 
 ## Acknowledgements
+
 This Scrabble game was created by Snorri Bjarkason. The game uses the official Scrabble dictionary to validate words, which can be found with Collins Scrabble Words (2019).
 
 ## License
+
 This project is licensed under the MIT License. See LICENSE.md for more information.
