@@ -1,4 +1,5 @@
 Scrabble Game
+
 Introduction
 
 This is a digital version of the classic board game Scrabble, where players create words on a game board to score points. The game can be played with two to four players.
