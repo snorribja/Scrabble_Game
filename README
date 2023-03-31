@@ -8,13 +8,11 @@ To play the game, you must have Python 3 installed on your computer. You can dow
 
 In addition, you will need to install the termcolor, tabulate, copy, itertools and pyfiglet packages. You can install these packages by running the following commands in your terminal or command prompt:
 
-
     - pip3 install termcolor
     - pip3 install tabulate
     - pip3 install copy
     - pip3 install itertools
     - pip3 install pyfiglet
-
 
 Once you have installed Python 3 and the necessary packages, you can download or clone this repository to your local machine.
 
